@@ -1,0 +1,13 @@
+E:\VDcom\5\bin\Debug\netcoreapp3.1\5.exe
+E:\VDcom\5\bin\Debug\netcoreapp3.1\5.deps.json
+E:\VDcom\5\bin\Debug\netcoreapp3.1\5.runtimeconfig.json
+E:\VDcom\5\bin\Debug\netcoreapp3.1\5.runtimeconfig.dev.json
+E:\VDcom\5\bin\Debug\netcoreapp3.1\5.dll
+E:\VDcom\5\bin\Debug\netcoreapp3.1\5.pdb
+E:\VDcom\5\obj\Debug\netcoreapp3.1\5.csprojAssemblyReference.cache
+E:\VDcom\5\obj\Debug\netcoreapp3.1\5.csproj.CoreCompileInputs.cache
+E:\VDcom\5\obj\Debug\netcoreapp3.1\5.AssemblyInfoInputs.cache
+E:\VDcom\5\obj\Debug\netcoreapp3.1\5.AssemblyInfo.cs
+E:\VDcom\5\obj\Debug\netcoreapp3.1\5.dll
+E:\VDcom\5\obj\Debug\netcoreapp3.1\5.pdb
+E:\VDcom\5\obj\Debug\netcoreapp3.1\5.genruntimeconfig.cache
